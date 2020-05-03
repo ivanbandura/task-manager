@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "44596721200",
+    "firebase_url": "https://blue-diary-debug-49847.firebaseio.com",
+    "project_id": "blue-diary-debug-49847",
+    "storage_bucket": "blue-diary-debug-49847.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44596721200:android:50045f631f12f4f71f9ff5",
+        "android_client_info": {
+          "package_name": "com.giantsol.blue_diary.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44596721200-r9e6s68bq955rqotglvdk7l3bc1ia63u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0OImKWozmRxAFUMcWRGZVdJCj735PLeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44596721200-r9e6s68bq955rqotglvdk7l3bc1ia63u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
